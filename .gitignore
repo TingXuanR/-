@@ -1,3 +1,8 @@
+#忽略的文件夹
+cocos2d/
+proj.android/
+proj.win32/
+
 # Prerequisites
 *.d
 

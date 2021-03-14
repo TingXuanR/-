@@ -1,0 +1,32 @@
+[
+    {
+        "plist": [
+            "Plist"
+        ],
+        "png": [
+            "game_quite_n",
+            "game_quite_s",
+            "back_01",
+            "back_02",
+            "backToMenu",
+            "bulletBorder",
+            "game_start_n",
+            "game_start_s",
+            "gameover",
+            "left",
+            "PassFailure",
+            "PassSuccess",
+            "restart_n",
+            "restart_s",
+            "resume_n",
+            "resume_s",
+            "select_n",
+            "select_s",
+            "set_n",
+            "set_s",
+            "sound_effect_off",
+            "sound_effect_on",
+            "menu_bg"
+        ]
+    }
+]
